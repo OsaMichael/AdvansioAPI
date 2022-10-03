@@ -25,4 +25,17 @@
         public string PinSalt { get; set; }
         public bool Succeeded { get; set; }
     }
+
+    public class AccountResp
+    {
+
+        public string AccountNumber { get; set; }
+        public decimal Amount { get; set; }
+        public string Email { get; set; }
+        public decimal CurrentAccountBalance { get; set; }
+        public string AccountName { get; set; }
+        public bool Succeeded { get; set; }
+    }
+
+
 }

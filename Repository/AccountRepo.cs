@@ -492,5 +492,38 @@ namespace AdvanAPI.Repository
             }
             return res;
         }
+
+        public async Task<List<AccountResp>> GetDashBoard()
+        {
+
+            try
+            {
+                string connString = _config.GetValue<string>("ConnectionStrings:dbConnection");
+
+                var OraConn = DatabaseConnection.SqlDatabaseCreateConnection(connString.ToString(), true);
+
+                var paras = new Dictionary<string, DatabaseParameterWrappers>();
+                var channel = "advansio";
+                paras.Add("@channel", new DatabaseParameterWrappers(string.IsNullOrWhiteSpace(channel) ? "" : channel.Trim()));
+                var account =  DapperUtilities<AccountResp>.GetList(OraConn, "pro_allAccount", CommandType.StoredProcedure);
+                _logger.LogInformation($"{account}: Came back from Database with {JsonConvert.SerializeObject(account)}");
+
+              //  var acct = JsonConvert.DeserializeObject<List<AccountResp>>(account);
+                if (account == null)
+                    return null;
+
+                
+                return account;
+            }
+
+            catch (Exception xx)
+            {
+                throw xx;
+            }
+
+
+
+        }
+
     }
 }

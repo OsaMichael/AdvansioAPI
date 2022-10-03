@@ -54,5 +54,41 @@ namespace AdvanAPI.Utilities
 
             return retVal;
         }
+
+        public static List<T> MySqlGetListNoParam(DbConnection dbConnection, string procName)
+        {
+            try
+            {
+                List<T> retVal;
+                using (var con = _dbConnection)
+                {
+                    retVal = dbConnection.Query<T>(procName).ToList();
+                }
+                return retVal;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+
+        public static List<T> GetList(DbConnection dbConnection, string procName, CommandType commandType)
+        {
+            try
+            {
+                _dbConnection = dbConnection;
+                List<T> retVal;
+                using (var con = _dbConnection)
+                {
+                    retVal = SqlMapper.Query<T>(_dbConnection, procName, commandType: commandType).ToList();
+                }
+                return retVal;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+
     }
 }

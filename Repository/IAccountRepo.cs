@@ -1,5 +1,6 @@
 ﻿using AdvanAPI.Data.OBT;
 using AdvanAPI.Models;
+using System.Collections.Generic;
 using System.Threading.Tasks;
 
 namespace AdvanAPI.Repository
@@ -14,6 +15,7 @@ namespace AdvanAPI.Repository
         Task<Response> GetBalanceByAccountNumber(string AccountNumber);
         Task<Response> UserLogin(string userName, string password);
         Task<Response> Resgister(Account account, string Pin, string ConfirmPin);
+        Task<List<AccountResp>> GetDashBoard();
        // Task<Response> Resgister(Account account, string Pin, string ConfirmPin);
     }
 }

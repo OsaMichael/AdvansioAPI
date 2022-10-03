@@ -27,6 +27,8 @@ namespace AdvanAPI.Controllers
             _mapper = mapper;
         }
 
+       
+
         [HttpPost("register")]
         [AllowAnonymous]
         public async Task<IActionResult> Register([FromBody] RegisterModel register)
@@ -166,6 +168,36 @@ namespace AdvanAPI.Controllers
                 return StatusCode(StatusCodes.Status400BadRequest, new APIiResponse { code = GeneralStatusCodes.Status_ShitHappens_General.code, message = GeneralStatusCodes.Status_ShitHappens_General.message });
             }
         }
-        
+
+        [HttpGet]
+        [Route("dashBoard")]
+        public async Task<IActionResult> DashBoard()
+        {
+            try
+            {
+                var result = await _accountService.GetDashBoard();
+
+                if (result != null)
+                    return StatusCode(StatusCodes.Status200OK, result);
+                else
+                {
+                    return StatusCode(StatusCodes.Status400BadRequest, new APIiResponse
+                    {
+                        code = GeneralStatusCodes.Status_ShitHappens_General.code,
+                        message = GeneralStatusCodes.Status_ShitHappens_General.message
+
+                    });
+                }
+
+            }
+
+            catch (Exception ex)
+            {
+                _logger.LogError($"An error occurred.", ex);
+                return StatusCode(StatusCodes.Status400BadRequest, new APIiResponse { code = GeneralStatusCodes.Status_ShitHappens_General.code, message = GeneralStatusCodes.Status_ShitHappens_General.message });
+            }
+        }
+
+
     }
 }
