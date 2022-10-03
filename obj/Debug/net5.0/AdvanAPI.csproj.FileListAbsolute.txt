@@ -1,0 +1,146 @@
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\obj\Debug\net5.0\AdvanAPI.csproj.AssemblyReference.cache
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\obj\Debug\net5.0\AdvanAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\obj\Debug\net5.0\AdvanAPI.AssemblyInfoInputs.cache
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\obj\Debug\net5.0\AdvanAPI.AssemblyInfo.cs
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\obj\Debug\net5.0\AdvanAPI.csproj.CoreCompileInputs.cache
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\obj\Debug\net5.0\AdvanAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\obj\Debug\net5.0\AdvanAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\AdvanAPI.exe
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\AdvanAPI.deps.json
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\AdvanAPI.runtimeconfig.json
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\AdvanAPI.runtimeconfig.dev.json
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\AdvanAPI.dll
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\ref\AdvanAPI.dll
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\AdvanAPI.pdb
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\Dapper.dll
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\Oracle.ManagedDataAccess.dll
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\System.DirectoryServices.dll
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\System.DirectoryServices.Protocols.dll
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\System.Security.AccessControl.dll
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\obj\Debug\net5.0\staticwebassets\AdvanAPI.StaticWebAssets.Manifest.cache
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\obj\Debug\net5.0\staticwebassets\AdvanAPI.StaticWebAssets.xml
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\obj\Debug\net5.0\scopedcss\bundle\AdvanAPI.styles.css
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\obj\Debug\net5.0\AdvanAPI.RazorTargetAssemblyInfo.cache
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\obj\Debug\net5.0\AdvanAPI.csproj.CopyComplete
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\obj\Debug\net5.0\AdvanAPI.dll
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\obj\Debug\net5.0\ref\AdvanAPI.dll
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\obj\Debug\net5.0\AdvanAPI.pdb
+C:\Users\michael.aruebo\Documents\Visual Studio 2019\Projects\AdvanAPI\obj\Debug\net5.0\AdvanAPI.genruntimeconfig.cache
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\AdvanAPI.exe
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\AdvanAPI.deps.json
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\AdvanAPI.runtimeconfig.json
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\AdvanAPI.runtimeconfig.dev.json
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\AdvanAPI.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\ref\AdvanAPI.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\AdvanAPI.pdb
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\Dapper.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\Oracle.ManagedDataAccess.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\System.DirectoryServices.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\System.DirectoryServices.Protocols.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\System.Security.AccessControl.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\obj\Debug\net5.0\AdvanAPI.csproj.AssemblyReference.cache
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\obj\Debug\net5.0\AdvanAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\obj\Debug\net5.0\AdvanAPI.AssemblyInfoInputs.cache
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\obj\Debug\net5.0\AdvanAPI.AssemblyInfo.cs
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\obj\Debug\net5.0\AdvanAPI.csproj.CoreCompileInputs.cache
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\obj\Debug\net5.0\AdvanAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\obj\Debug\net5.0\AdvanAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\obj\Debug\net5.0\staticwebassets\AdvanAPI.StaticWebAssets.Manifest.cache
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\obj\Debug\net5.0\staticwebassets\AdvanAPI.StaticWebAssets.xml
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\obj\Debug\net5.0\scopedcss\bundle\AdvanAPI.styles.css
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\obj\Debug\net5.0\AdvanAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\obj\Debug\net5.0\AdvanAPI.csproj.CopyComplete
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\obj\Debug\net5.0\AdvanAPI.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\obj\Debug\net5.0\ref\AdvanAPI.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\obj\Debug\net5.0\AdvanAPI.pdb
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\obj\Debug\net5.0\AdvanAPI.genruntimeconfig.cache
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mr Mchael\Documents\Visual Studio 2019\Projects\AdvanAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
